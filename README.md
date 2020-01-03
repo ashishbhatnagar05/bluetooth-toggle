@@ -31,6 +31,3 @@ If so, add them to `connect.bat` and `disconnect.bat` files.
 
 The list of services can be found [here](https://www.bluetooth.com/specifications/assigned-numbers/service-discovery/).
 
-# Credit where it's due:
-
-[This guy on superuser!](https://superuser.com/a/1427536)
